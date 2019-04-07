@@ -32,7 +32,7 @@
   {
     "id": "5",
     "name": "daenerys",
-    "imageSrc": "./img/daenerys.jpg",
+    "imageSrc": "./img/daenerys.jpeg",
     "clicked": false
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": "7",
     "name": "gregor",
-    "imageSrc": "./img/gregor.jpg",
+    "imageSrc": "./img/gregor.jpeg",
     "clicked": false
   },
   {
@@ -86,13 +86,13 @@
   {
     "id": "14",
     "name": "malisandre",
-    "imageSrc": "./img/melisandre.jpg",
+    "imageSrc": "./img/melisandre.jpeg",
     "clicked": false
   },
   {
     "id": "15",
     "name": "ned",
-    "imageSrc": "./img/ned.jpg",
+    "imageSrc": "./img/ned.png",
     "clicked": false
   },
   {
@@ -116,7 +116,7 @@
   {
     "id": "19",
     "name": "sandor",
-    "imageSrc": "./img/sandor.jpg",
+    "imageSrc": "./img/sandor.jpeg",
     "clicked": false
   },
   {
@@ -134,7 +134,7 @@
   {
     "id": "22",
     "name": "tyrion",
-    "imageSrc": "./img/tyrion.jpg",
+    "imageSrc": "./img/tyrion.png",
     "clicked": false
   },
   {
