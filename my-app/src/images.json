@@ -1,0 +1,152 @@
+[
+  {
+    "id": "0",
+    "name": "arya",
+    "imageSrc": "./img/arya.jpg",
+    "clicked": false
+  },
+  {
+    "id": "1",
+    "name": "brienne",
+    "imageSrc": "./img/brienne.jpg",
+    "clicked": false
+  },
+  {
+    "id": "2",
+    "name": "bronn",
+    "imageSrc": "./img/bronn.jpg",
+    "clicked": false
+  },
+  {
+    "id": "3",
+    "name": "cersai",
+    "imageSrc": "./img/cersai.jpg",
+    "clicked": false
+  },
+  {
+    "id": "4",
+    "name": "daario",
+    "imageSrc": "./img/daario.jpg",
+    "clicked": false
+  },
+  {
+    "id": "5",
+    "name": "daenerys",
+    "imageSrc": "./img/daenerys.jpg",
+    "clicked": false
+  },
+  {
+    "id": "6",
+    "name": "gendry",
+    "imageSrc": "./img/gendry.jpg",
+    "clicked": false
+  },
+  {
+    "id": "7",
+    "name": "gregor",
+    "imageSrc": "./img/gregor.jpg",
+    "clicked": false
+  },
+  {
+    "id": "8",
+    "name": "jaime",
+    "imageSrc": "./img/jaime.jpg",
+    "clicked": false
+  },
+  {
+    "id": "9",
+    "name": "joffrey",
+    "imageSrc": "./img/joffrey.jpg",
+    "clicked": false
+  },
+  {
+    "id": "10",
+    "name": "john-snow",
+    "imageSrc": "./img/john-snow.jpg",
+    "clicked": false
+  },
+  {
+    "id": "11",
+    "name": "jorah",
+    "imageSrc": "./img/jorah.jpg",
+    "clicked": false
+  },
+  {
+    "id": "12",
+    "name": "khal",
+    "imageSrc": "./img/khal.jpg",
+    "clicked": false
+  },
+  {
+    "id": "13",
+    "name": "margaery",
+    "imageSrc": "./img/margaery.jpg",
+    "clicked": false
+  },
+  {
+    "id": "14",
+    "name": "malisandre",
+    "imageSrc": "./img/melisandre.jpg",
+    "clicked": false
+  },
+  {
+    "id": "15",
+    "name": "ned",
+    "imageSrc": "./img/ned.jpg",
+    "clicked": false
+  },
+  {
+    "id": "16",
+    "name": "oberyn",
+    "imageSrc": "./img/oberyn.jpg",
+    "clicked": false
+  },
+  {
+    "id": "17",
+    "name": "petyr",
+    "imageSrc": "./img/petyr.jpg",
+    "clicked": false
+  },
+  {
+    "id": "18",
+    "name": "ramsay",
+    "imageSrc": "./img/ramsay.jpg",
+    "clicked": false
+  },
+  {
+    "id": "19",
+    "name": "sandor",
+    "imageSrc": "./img/sandor.jpg",
+    "clicked": false
+  },
+  {
+    "id": "20",
+    "name": "sansa",
+    "imageSrc": "./img/sansa.jpg",
+    "clicked": false
+  },
+  {
+    "id": "21",
+    "name": "theon",
+    "imageSrc": "./img/theon.jpg",
+    "clicked": false
+  },
+  {
+    "id": "22",
+    "name": "tyrion",
+    "imageSrc": "./img/tyrion.jpg",
+    "clicked": false
+  },
+  {
+    "id": "23",
+    "name": "varys",
+    "imageSrc": "./img/varys.jpg",
+    "clicked": false
+  },
+  {
+    "id": "24",
+    "name": "shae",
+    "imageSrc": "./img/shae.jpg",
+    "clicked": false
+  }
+]

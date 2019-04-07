@@ -1,0 +1,74 @@
+.wrapper {
+  padding-top: 50px;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+.bg {
+  background-image: url("../../image/got.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 200px 50px 200px 50px;
+  border-bottom: 4px solid rgba(128, 128, 128, 0.486);
+  color: white;
+  font-family: "Amatic SC", cursive;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.bg > h2 {
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(252, 229, 127);
+  font-size: 20px;
+  padding-top: 200px;
+}
+.container-fluid {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1280px;
+}
+.navbar {
+  background-color: black !important;
+  padding: 15px 20px;
+  border-bottom: 4px solid rgb(177, 159, 77);
+  color: rgba(255, 255, 255, 0.747);
+  font-size: 25px;
+  font-family: "Amatic SC", cursive;
+  font-weight: bold;
+}
+.title {
+  font-family: "Amatic SC", cursive;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.747);
+  font-size: 2rem;
+}
+a:hover {
+  color: rgba(255, 255, 255, 0.747);
+  text-decoration: none;
+}
+.footer {
+  height: 50px;
+  background-color: black;
+  border-top: 4px solid rgb(177, 159, 77);
+  text-align: center;
+  padding-top: 10px;
+}
+.footer > a {
+  font-size: 25px;
+  font-family: "Amatic SC", cursive;
+  color: rgb(177, 159, 77);
+  font-weight: bold;
+}
+.correct {
+  animation-name: colorchangeCorrect;
+  animation-duration: 1.5s;
+}
+
+.incorrect {
+  animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
